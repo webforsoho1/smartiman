@@ -16,7 +16,7 @@
     "google-analytics": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 9,
+    "uniqCompNum": 12,
     "versionPublish": "4.6.5",
     "screenshot": "screenshot.png"
   },
@@ -102,7 +102,7 @@
           },
           "title": "Taman Asuhan Kanak-Kanak Smart Iman Child Care Centre",
           "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"tel:+601135238537\" data-toolbar=\"-mbrBtnMove\">Hubungi Kami&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://web.facebook.com/nor.fariza.739?fref=mentions\" data-toolbar=\"-mbrBtnMove\">Facebook&nbsp;</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"tel:+601135238537\" data-toolbar=\"-mbrBtnMove\">Hubungi Kami&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://web.facebook.com/nor.fariza.739?fref=mentions\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Facebook&nbsp;</a> ",
           "_tags": [
             "Theme"
           ],
@@ -387,6 +387,31 @@
           }
         },
         {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": 3,
+            "facebook": "nor.fariza.739",
+            "twitter": "",
+            "google": "",
+            "youtube": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-b"
+        },
+        {
           "_params": {
             "showTitle": true,
             "paddingTop": 3,
@@ -454,7 +479,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ALAMAT</strong><br>68,<br>Persiaran KTC 4/3,<br>Kulim Techno City Kulim Hi-Tech Park,<br>09000 Kulim Kedah&nbsp;Darul Aman,<br>Malaysia.<br><b>(PG 0405602-A)<br></b><br>\n<strong>HUBUNGI KAMI</strong><br>\nEmail: <a href=\"mailto:norfarizaabdulhalim@gmail.com\" class=\"text-danger\">norfarizaabdulhalim@gmail.com</a><br>\nNo Tel :<a href=\"tel:+601135238537\" class=\"text-success\"> 011-35238537</a><br>",
+          "text1": "<strong>ALAMAT</strong><br>68,<br>Persiaran KTC 4/3,<br>Kulim Techno City Kulim Hi-Tech Park,<br>09000 Kulim Kedah&nbsp;Darul Aman,<br>Malaysia.<br><b>(PG 0405602-A)<br></b><br>\n<strong>HUBUNGI KAMI</strong><br>\nEmail: <a href=\"mailto:norfarizaabdulhalim@gmail.com\" class=\"text-white\">norfarizaabdulhalim@gmail.com</a><br><a href=\"mailto:smartiman@mytaska.net\" class=\"text-white\">smartiman@mytaska.net</a><br>\nNo Tel :<a href=\"tel:+601135238537\" class=\"text-white\"> 011-35238537</a><br>",
           "text2": "",
           "_tags": [
             "Theme"
